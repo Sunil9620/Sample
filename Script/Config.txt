@@ -1,0 +1,5 @@
+[Config]
+descDirectoryPath = D:\Polaris\Polaris_Automation\Input_Files\Vehicle_Descriptor
+masterDbc = D:\Polaris\Polaris_Automation\Input_Files\Master_DBC\Polaris_j1939.dbc
+outputDirectoryPath = D:\Polaris\Polaris_Automation\Output_Files\
+canMatrixPath = E:\Python27\Scripts\
